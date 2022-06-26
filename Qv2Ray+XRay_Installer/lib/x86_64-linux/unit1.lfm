@@ -1,7 +1,7 @@
 object MainForm: TMainForm
-  Left = 341
+  Left = 317
   Height = 599
-  Top = 122
+  Top = 124
   Width = 792
   Caption = 'Qv2Ray+XRay Online Installer'
   ClientHeight = 599

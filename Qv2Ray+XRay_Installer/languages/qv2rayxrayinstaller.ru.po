@@ -36,7 +36,7 @@ msgstr ""
 #: tmainform.removebtn.caption
 msgctxt "tmainform.removebtn.caption"
 msgid "Remove"
-msgstr "Удаление"
+msgstr "Удалить"
 
 #: tmainform.statictext1.caption
 msgid "License: GPLv3   Author: alex_q_2000 (C) 2022   URL: https://linuxforum.ru"
