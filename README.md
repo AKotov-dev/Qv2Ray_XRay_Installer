@@ -7,7 +7,8 @@ Graphical installer of tools for safe surfing: `XRay` - traffic encryption/obfus
 1. Loading/Unpacking GUI (Qv2Ray) to the current directory - executable file `Qv2ray-v2.7.0-linux-x64.AppImage`
 2. Creating a catalog `~/.config/qv2ray/vcore` and loading/unpacking a fresh one into it `XRay-Core`
 
-**How to work with Qv2Ray after installation:**
+How to work with Qv2Ray after installation
+--
 Run a file from the current folder `Qv2ray-v2.7.0-linux-x64.AppImage`
 
 Find ready-made configurations on the Internet for `v2ray/XRay` (preferably VLESS, VMESS are sometimes not recognized), open any of them, copy the contents to the clipboard, click the `Import` button in Qv2ray, insert into the field `Share Link` and press `Import`. If the configuration is valid, it will appear on the left in the list of configurations. Before connecting, it is desirable (not necessary) to check it: `PopupMenu`-`Test Latency`. A successful test will show the response time. To connect, double-click on the configuration. Disable proxy - via the tray menu (Disconnect) or the button on the form at the top right. 
