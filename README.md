@@ -17,4 +17,9 @@ Note-1: After connecting, the global PROXY changes in the system. Resetting the 
 
 Note-2: If the system proxy does not change when connecting (you can check the location after connecting on https://whoer.net ), then turn on the `SOCKS5 Proxy` + `Sending DNS requests via proxy` in the browser manually (Address: 127.0.0.1, Port: 1089).
 
-Note-3: During testing, the firewall can be disabled.
+Note-3: During testing, the firewall can be disabled.  
+  
+![](https://github.com/AKotov-dev/Qv2Ray_XRay_Installer/blob/main/ScreenShots/Screenshot-1.png)  
+  
+![](https://github.com/AKotov-dev/Qv2Ray_XRay_Installer/blob/main/ScreenShots/Screenshot-2.png)
+
