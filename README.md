@@ -4,8 +4,8 @@
 
 Graphical installer of tools for safe surfing: `XRay` - traffic encryption/obfuscation and `Qv2Ray` - professional GUI for XRay. Download the installer archive `Qv2Ray+XRay_Installer.tar.gz`, unpack it and run `qv2rayxrayinstaller` (all with the rights of an ordinary user). As a result, the following operations will be performed:
 
-1. Loading/Unpacking GUI (Qv2Ray) to the current directory - executable file `Qv2ray-v2.7.0-linux-x64.AppImage`
-2. Creating a catalog `~/.config/qv2ray/vcore` and loading/unpacking a fresh one into it `XRay-Core`
+1. Loading/Unpacking GUI (Qv2Ray) to the current directory - executable file [Qv2ray-v2.7.0-linux-x64.AppImage](https://github.com/Qv2ray/Qv2ray/releases)
+2. Creating a catalog `~/.config/qv2ray/vcore` and loading/unpacking a fresh one into it [XRay-Core](https://github.com/XTLS/Xray-core/releases)
 
 How to work with Qv2Ray after installation
 --
