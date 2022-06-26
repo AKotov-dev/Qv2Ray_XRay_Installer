@@ -1,0 +1,45 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tmainform.caption
+msgid "Qv2Ray+XRay Online Installer"
+msgstr ""
+
+#: tmainform.installbtn.caption
+msgctxt "tmainform.installbtn.caption"
+msgid "Install"
+msgstr ""
+
+#: tmainform.label1.caption
+msgid ""
+"Dependencies: curl, unzip, wget\n"
+"V2Ray Assets Directory: ~/.config/qv2ray/vcore\n"
+" \n"
+"Installation of Qv2Ray takes place in the current directory..."
+msgstr ""
+
+#: tmainform.removebtn.caption
+msgctxt "tmainform.removebtn.caption"
+msgid "Remove"
+msgstr ""
+
+#: tmainform.statictext1.caption
+msgid "License: GPLv3   Author: alex_q_2000 (C) 2022   URL: https://linuxforum.ru"
+msgstr ""
+
+#: unit1.scloseinstance
+msgid "Before deleting, close the running instance!"
+msgstr ""
+
+#: unit1.sremovemsg
+msgid "Delete the current Installation?"
+msgstr ""
+
+#: unit1.sstartwarning
+msgid "Proceed with the Installation?"
+msgstr ""
+
+#: unit1.swarningclose
+msgid "Installation is running! Cancel?"
+msgstr ""
+
