@@ -12,7 +12,7 @@ msgstr ""
 
 #: tmainform.label1.caption
 msgid ""
-"Dependencies: curl, unzip, wget\n"
+"Dependencies: curl, unzip, wget, fuse\n"
 "V2Ray Assets Directory: ~/.config/qv2ray/vcore\n"
 " \n"
 "Installation of Qv2Ray takes place in the current directory..."

@@ -22,8 +22,14 @@ msgid "Install"
 msgstr "Установить"
 
 #: tmainform.label1.caption
+#, fuzzy
+#| msgid ""
+#| "Dependencies: curl, unzip, wget\n"
+#| "V2Ray Assets Directory: ~/.config/qv2ray/vcore\n"
+#| " \n"
+#| "Installation of Qv2Ray takes place in the current directory..."
 msgid ""
-"Dependencies: curl, unzip, wget\n"
+"Dependencies: curl, unzip, wget, fuse\n"
 "V2Ray Assets Directory: ~/.config/qv2ray/vcore\n"
 " \n"
 "Installation of Qv2Ray takes place in the current directory..."
@@ -57,3 +63,4 @@ msgstr "Приступить к установке?"
 #: unit1.swarningclose
 msgid "Installation is running! Cancel?"
 msgstr "Установка запущена! Отменить?"
+

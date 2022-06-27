@@ -1,6 +1,6 @@
 # Qv2Ray+XRay_Installer - safe web surfing
 
-**Dependencies:** curl unzip wget
+**Dependencies:** curl unzip wget fuse
 
 Graphical installer of tools for safe surfing: `XRay` - traffic encryption/obfuscation and `Qv2Ray` - professional GUI for XRay. Download the installer archive `Qv2Ray+XRay_Installer.tar.gz`, unpack it and run `qv2rayxrayinstaller` (all with the rights of an ordinary user). As a result, the following operations will be performed:
 
@@ -18,8 +18,9 @@ Note-1: After connecting, the global PROXY changes in the system. Resetting the 
 Note-2: If the system proxy does not change when connecting (you can check the location after connecting on https://whoer.net ), then turn on the `SOCKS5 Proxy` + `Sending DNS requests via proxy` in the browser manually (Address: 127.0.0.1, Port: 1089).
 
 Note-3: During testing, the firewall can be disabled.  
+
+Tested in Mageia-8/9 and LUbuntu-22.04.
   
 ![](https://github.com/AKotov-dev/Qv2Ray_XRay_Installer/blob/main/ScreenShots/Screenshot-1.png)  
   
 ![](https://github.com/AKotov-dev/Qv2Ray_XRay_Installer/blob/main/ScreenShots/Screenshot-2.png)
-

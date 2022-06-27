@@ -1,7 +1,7 @@
 object MainForm: TMainForm
-  Left = 341
+  Left = 317
   Height = 599
-  Top = 122
+  Top = 124
   Width = 792
   Caption = 'Qv2Ray+XRay Online Installer'
   ClientHeight = 599
@@ -199,11 +199,12 @@ object MainForm: TMainForm
     AnchorSideRight.Control = InstallBtn
     AnchorSideBottom.Control = Image1
     AnchorSideBottom.Side = asrBottom
-    Left = 604
+    Left = 603
     Height = 75
     Top = 8
     Width = 90
     Anchors = [akTop, akRight]
+    BorderSpacing.Right = 1
     Caption = 'Remove'
     Glyph.Data = {
       36100000424D3610000000000000360000002800000020000000200000000100
@@ -421,7 +422,7 @@ object MainForm: TMainForm
     Top = 8
     Width = 388
     BorderSpacing.Left = 5
-    Caption = 'Dependencies: curl, unzip, wget'#10'V2Ray Assets Directory: ~/.config/qv2ray/vcore'#10' '#10'Installation of Qv2Ray takes place in the current directory...'
+    Caption = 'Dependencies: curl, unzip, wget, fuse'#10'V2Ray Assets Directory: ~/.config/qv2ray/vcore'#10' '#10'Installation of Qv2Ray takes place in the current directory...'
     Font.Height = -13
     Font.Name = 'Sans'
     Font.Style = [fsItalic]
@@ -429,18 +430,18 @@ object MainForm: TMainForm
   end
   object SelectDirectoryDialog1: TSelectDirectoryDialog
     Left = 176
-    Top = 152
+    Top = 120
   end
   object IniPropStorage1: TIniPropStorage
     StoredValues = <>
     Left = 56
-    Top = 152
+    Top = 120
   end
   object ImageList1: TImageList
     Height = 75
     Width = 75
     Left = 304
-    Top = 152
+    Top = 120
     Bitmap = {
       4C7A080000004B0000004B000000851A00000000000078DAED9D5FC827D57D87
       F72657B9517AE3652E1A088442C965AE5A0A5DB6204610A55644D04A05BD5910
@@ -662,6 +663,6 @@ object MainForm: TMainForm
     Interval = 100
     OnTimer = Timer2Timer
     Left = 392
-    Top = 152
+    Top = 120
   end
 end
